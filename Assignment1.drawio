@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15" version="27.0.6">
+  <diagram name="Page-1" id="yFKM9rF3ASNMHsi0DaBg">
+    <mxGraphModel dx="578" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nVcPeVIQQrxC4yoQxKv4-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="nVcPeVIQQrxC4yoQxKv4-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="nVcPeVIQQrxC4yoQxKv4-3" value="customer_purchases" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="420" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nVcPeVIQQrxC4yoQxKv4-4" value="product" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="130" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nVcPeVIQQrxC4yoQxKv4-5" value="product_id&lt;div&gt;vendor_id&lt;/div&gt;&lt;div&gt;market_date&lt;/div&gt;&lt;div&gt;customer_id&lt;/div&gt;&lt;div&gt;quantity&lt;/div&gt;&lt;div&gt;cost_to_customer_per_qty&lt;br&gt;&lt;/div&gt;&lt;div&gt;transaction_time&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="370" y="170" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="nVcPeVIQQrxC4yoQxKv4-6" value="product_id&lt;div&gt;product_name&lt;/div&gt;&lt;div&gt;product_size&lt;/div&gt;&lt;div&gt;product_category_id&lt;/div&gt;&lt;div&gt;product_qty_type&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="130" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="nVcPeVIQQrxC4yoQxKv4-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="nVcPeVIQQrxC4yoQxKv4-2" target="nVcPeVIQQrxC4yoQxKv4-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="350" as="sourcePoint" />
+            <mxPoint x="250" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nVcPeVIQQrxC4yoQxKv4-10" value="=" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="240" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nVcPeVIQQrxC4yoQxKv4-11" value="1" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="320" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
