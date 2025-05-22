@@ -1,4 +1,4 @@
-/* ASSIGNMENT 2 */
+/* ASSIGNMENT 2 Andrada Cretu   */
 /* SECTION 2 */
 
 -- COALESCE
